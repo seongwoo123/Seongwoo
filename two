@@ -1,0 +1,19 @@
+# Seongwoopackage assignment;
+
+public class two {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s1 = "TTTTTTTTTT";
+		String s2 = "    TT    ";
+		
+		System.out.println(s1);
+		System.out.println(s1 + "\n" + s2);
+		System.out.println(s2 + "\n" + s2);
+		
+		
+			
+
+	}
+
+}
