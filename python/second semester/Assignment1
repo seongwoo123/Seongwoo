@@ -1,1 +1,56 @@
+1
+        "kor = 90\n",
+        "mat = 80\n",
+        "eng = 100\n",
+        "sum = kor + mat + eng\n",
+        "avg = sum/3\n",
+        "print('kor: ' , kor)\n",
+        "print('mat: ' , mat)\n",
+        "print('eng: ' , eng)\n",
+        "print('sum: ' , sum)\n",
+        "print('avg: ' , avg)"
+    
+2
+        "print('T'*10)\n",
+        "print('T'*10)\n",
+        "print('    TT') \n",
+        "print('    TT')  \n",
+        "print('    TT')\n"
+3
+        "x = 10\n",
+        "y = 20\n",
+        "z = 30\n",
+        "print(x,'+',y,'=',z)"
+        
+4
 
+        "x = input()\n",
+        "y = input()\n",
+        "z = input()\n",
+        "\n",
+        "x = int(x)\n",
+        "y = int(y)\n",
+        "z = int(z)\n",
+        "\n",
+        "sum = x + y + z\n",
+        "avg = sum/3\n",
+        "\n",
+        "print('sum= ' , sum)\n",
+        "print('avg= ' , avg)"
+
+
+5
+        "double = input(\"yard?\")\n",
+        "double = float(double)\n",
+        "\n",
+        "yard_1 = 91.44\n",
+        "\n",
+        "yard = yard_1 * double\n",
+        "\n",
+        "print(\"10.1yard =\",round(yard,1),\"cm\" )\n"
+     
+     
+     
+     
+     
+     
