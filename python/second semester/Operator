@@ -1,31 +1,6 @@
 1
         "x = input()\n",
         "y = input()\n",
-        "z = input()\n",
-        "\n",
-        "x = int(x)\n",
-        "y = int(y)\n",
-        "z = int(z)\n",
-        "\n",
-        "sum = x + y + z\n",
-        "avg = sum/3\n",
-        "\n",
-        "print('sum= ' , sum)\n",
-        "print('avg= ' , avg)"
-
-2
-        "double = input(\"yard?\")\n",
-        "double = float(double)\n",
-        "\n",
-        "yard_1 = 91.44\n",
-        "\n",
-        "yard = yard_1 * double\n",
-        "\n",
-        "print(\"10.1yard =\",round(yard,1),\"cm\" )\n"
-
-3
-        "x = input()\n",
-        "y = input()\n",
         "\n",
         "x = int(x)\n",
         "y = int(y)\n",
@@ -40,7 +15,7 @@
         "print(c)\n",
         "print(d)"
 
-4
+2
         "x = input()\n",
         "y = input()\n",
         "z = input()\n",
@@ -56,6 +31,29 @@
         "print(b)\n",
         "  \n",
         "\n"
-     
+        
+3       
+        "x = input()\n",
+        "y = input()\n",
+        "\n",
+        "x = int(x)\n",
+        "y = int(y)\n",
+        "\n",
+        "a = x + 1\n",
+        "b = y - 1\n",
+        "c = a * b\n",
+        "print(a,b,c)"
+
+4
+        "a = input(\"민수의 키를 입력하시오\")\n",
+        "b = input(\"민수의 몸무게를 입력하시오\")\n",
+        "c = input(\"기영이의 키를 입력하시오\")\n",
+        "d = input(\"기영이의 몸무게를 입력하시오\")\n",
+        "\n",
+        "if a > c and b > d :\n",
+        "  print (\"ture\")\n",
+        "else :\n",
+        "    print (\"false\")\n"
+      
         
       
