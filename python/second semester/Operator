@@ -1,1 +1,61 @@
+1
+        "x = input()\n",
+        "y = input()\n",
+        "z = input()\n",
+        "\n",
+        "x = int(x)\n",
+        "y = int(y)\n",
+        "z = int(z)\n",
+        "\n",
+        "sum = x + y + z\n",
+        "avg = sum/3\n",
+        "\n",
+        "print('sum= ' , sum)\n",
+        "print('avg= ' , avg)"
 
+2
+        "double = input(\"yard?\")\n",
+        "double = float(double)\n",
+        "\n",
+        "yard_1 = 91.44\n",
+        "\n",
+        "yard = yard_1 * double\n",
+        "\n",
+        "print(\"10.1yard =\",round(yard,1),\"cm\" )\n"
+
+3
+        "x = input()\n",
+        "y = input()\n",
+        "\n",
+        "x = int(x)\n",
+        "y = int(y)\n",
+        "\n",
+        "a = x > y\n",
+        "b = x < y\n",
+        "c = x >= y\n",
+        "d = x <= y\n",
+        "\n",
+        "print(a)\n",
+        "print(b)\n",
+        "print(c)\n",
+        "print(d)"
+
+4
+        "x = input()\n",
+        "y = input()\n",
+        "z = input()\n",
+        "\n",
+        "x = int(x)\n",
+        "y = int(y)\n",
+        "z = int(z)\n",
+        "\n",
+        "a = x > y and x > z\n",
+        "b = x == y == z\n",
+        "\n",
+        "print(a)\n",
+        "print(b)\n",
+        "  \n",
+        "\n"
+     
+        
+      
